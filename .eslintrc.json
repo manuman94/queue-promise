@@ -2,7 +2,7 @@
   "parser": "babel-eslint",
 
   "extends": ["standard", "prettier"],
-  "plugins": ["flowtype", "standard", "prettier"],
+  "plugins": ["flowtype", "prettier"],
 
   "env": {
     "es6": true
